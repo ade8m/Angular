@@ -1,0 +1,8 @@
+.image{
+    width: 250px ;
+    height: 400px;
+}
+
+.bloc{
+    display: flex;justify-content: space-around;
+}
